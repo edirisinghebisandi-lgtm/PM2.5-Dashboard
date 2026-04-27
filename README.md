@@ -54,9 +54,12 @@ The analysis is based on the *Greenhouse Gas and Air Pollutant Emissions* datase
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/pm25-dashboard.git
 cd pm25-dashboard
+
+Install Required Libraries
+pip install -r requirements.txt
