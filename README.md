@@ -63,3 +63,6 @@ cd pm25-dashboard
 
 Install Required Libraries
 pip install -r requirements.txt
+
+Run the Application
+python -m streamlit run app.py
