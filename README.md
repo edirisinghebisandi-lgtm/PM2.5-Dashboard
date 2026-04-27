@@ -3,37 +3,37 @@ This project presents an interactive dashboard developed using Streamlit to anal
 
 The analysis is based on the Greenhouse Gas and Air Pollutant Emissions dataset, which includes information on emissions across sectors, subsectors, regions, and geographical locations.
 
-Objectives
+## Objectives
 Analyse PM2.5 emission trends over time
 Identify high-emission sectors and subsectors
 Compare emissions across regions
 Visualise geographical distribution of emissions
 Provide an interactive dashboard for data exploration
 
-Dataset
+## Dataset
 Source: Humanitarian Data Exchange (HDX)
 Dataset: Greenhouse Gas and Air Pollutant Emissions
 Focus: Spain (ESP)
 Format: CSV (cleaned dataset used for dashboard)
 
-Technologies Used
+## Technologies Used
 Python
 Streamlit
 Pandas
 Plotly
 
-Dashboard Features
-KPI Metrics
+## Dashboard Features
+# KPI Metrics
 Total Emissions
 Average Emissions
 Maximum Emissions
-Filters
+# Filters
 Sector
 Year
-Visualisations
+# Visualisations
 Emissions Trend Over Time (Line Chart)
 Top 10 Regions by Emissions (Bar Chart)
 Top Contributing Subsectors (Bar Chart)
 Geographical Distribution (Map)
-Additional Feature
+# Additional Feature
 Dataset preview table
