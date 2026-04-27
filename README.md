@@ -5,7 +5,6 @@ This project presents an interactive dashboard developed using Streamlit to anal
 
 The analysis is based on the *Greenhouse Gas and Air Pollutant Emissions* dataset, which includes information on emissions across sectors, subsectors, regions, and geographical locations.
 
----
 
 ## Objectives
 - Analyse PM2.5 emission trends over time  
